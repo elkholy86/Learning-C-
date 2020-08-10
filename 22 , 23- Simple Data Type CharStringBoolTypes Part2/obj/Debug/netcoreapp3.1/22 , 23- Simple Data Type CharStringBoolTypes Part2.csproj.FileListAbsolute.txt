@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\bin\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.exe
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\bin\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.deps.json
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\bin\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.runtimeconfig.json
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\bin\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\bin\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\bin\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\obj\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\obj\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\obj\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\obj\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\obj\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\obj\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\22 , 23- Simple Data Type CharStringBoolTypes Part2\obj\Debug\netcoreapp3.1\22 , 23- Simple Data Type CharStringBoolTypes Part2.genruntimeconfig.cache
