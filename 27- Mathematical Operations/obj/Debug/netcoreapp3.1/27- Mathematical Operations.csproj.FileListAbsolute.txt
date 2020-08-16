@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\obj\Debug\netcoreapp3.1\27- Mathematical Operations.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\obj\Debug\netcoreapp3.1\27- Mathematical Operations.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\obj\Debug\netcoreapp3.1\27- Mathematical Operations.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\obj\Debug\netcoreapp3.1\27- Mathematical Operations.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\bin\Debug\netcoreapp3.1\27- Mathematical Operations.exe
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\bin\Debug\netcoreapp3.1\27- Mathematical Operations.deps.json
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\bin\Debug\netcoreapp3.1\27- Mathematical Operations.runtimeconfig.json
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\bin\Debug\netcoreapp3.1\27- Mathematical Operations.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\bin\Debug\netcoreapp3.1\27- Mathematical Operations.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\bin\Debug\netcoreapp3.1\27- Mathematical Operations.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\obj\Debug\netcoreapp3.1\27- Mathematical Operations.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\obj\Debug\netcoreapp3.1\27- Mathematical Operations.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\27- Mathematical Operations\obj\Debug\netcoreapp3.1\27- Mathematical Operations.genruntimeconfig.cache
