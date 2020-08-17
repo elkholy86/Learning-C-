@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\bin\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.exe
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\bin\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.deps.json
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\bin\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.runtimeconfig.json
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\bin\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\bin\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\bin\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\obj\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\obj\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\obj\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\obj\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\obj\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\obj\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\29,30 - Increments - Decrements Operations  Assignment Oper\obj\Debug\netcoreapp3.1\29,30 - Increments - Decrements Operations  Assignment Oper.genruntimeconfig.cache
