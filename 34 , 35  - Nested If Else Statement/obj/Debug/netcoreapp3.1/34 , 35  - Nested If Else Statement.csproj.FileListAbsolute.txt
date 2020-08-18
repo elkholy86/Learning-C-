@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\bin\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.exe
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\bin\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.deps.json
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\bin\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.runtimeconfig.json
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\bin\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\bin\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\bin\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\obj\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\obj\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\obj\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\obj\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\obj\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\obj\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\34 , 35  - Nested If Else Statement\obj\Debug\netcoreapp3.1\34 , 35  - Nested If Else Statement.genruntimeconfig.cache
