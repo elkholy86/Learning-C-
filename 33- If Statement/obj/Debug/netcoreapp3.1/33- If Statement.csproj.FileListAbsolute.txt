@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\bin\Debug\netcoreapp3.1\33- If Statement.exe
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\bin\Debug\netcoreapp3.1\33- If Statement.deps.json
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\bin\Debug\netcoreapp3.1\33- If Statement.runtimeconfig.json
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\bin\Debug\netcoreapp3.1\33- If Statement.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\bin\Debug\netcoreapp3.1\33- If Statement.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\bin\Debug\netcoreapp3.1\33- If Statement.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\obj\Debug\netcoreapp3.1\33- If Statement.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\obj\Debug\netcoreapp3.1\33- If Statement.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\obj\Debug\netcoreapp3.1\33- If Statement.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\obj\Debug\netcoreapp3.1\33- If Statement.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\obj\Debug\netcoreapp3.1\33- If Statement.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\obj\Debug\netcoreapp3.1\33- If Statement.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\33- If Statement\obj\Debug\netcoreapp3.1\33- If Statement.genruntimeconfig.cache
