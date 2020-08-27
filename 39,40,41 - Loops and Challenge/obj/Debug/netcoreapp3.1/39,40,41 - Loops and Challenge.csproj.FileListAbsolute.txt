@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\bin\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.exe
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\bin\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.deps.json
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\bin\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.runtimeconfig.json
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\bin\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\bin\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\bin\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\obj\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\obj\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\obj\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\obj\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\obj\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.dll
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\obj\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.pdb
+C:\Users\Elkholy\Documents\github\Learning-C-\39,40,41 - Loops and Challenge\obj\Debug\netcoreapp3.1\39,40,41 - Loops and Challenge.genruntimeconfig.cache
