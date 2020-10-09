@@ -1,0 +1,13 @@
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\bin\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.exe
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\bin\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.deps.json
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\bin\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.runtimeconfig.json
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\bin\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.runtimeconfig.dev.json
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\bin\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.dll
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\bin\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.pdb
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\obj\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.csprojAssemblyReference.cache
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\obj\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.AssemblyInfoInputs.cache
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\obj\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.AssemblyInfo.cs
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\obj\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\obj\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.dll
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\obj\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.pdb
+C:\Users\Elkholy\source\repos\44-Break Loop Continue Command and challenge\obj\Debug\netcoreapp3.1\44-Break Loop Continue Command and challenge.genruntimeconfig.cache
