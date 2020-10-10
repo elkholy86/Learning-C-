@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\bin\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\bin\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\bin\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\bin\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\bin\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\bin\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\obj\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\obj\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\obj\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\obj\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\obj\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\obj\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\45 - Implicit Conversion Operations\obj\Debug\netcoreapp3.1\45 - Implicit Conversion Operations.genruntimeconfig.cache
