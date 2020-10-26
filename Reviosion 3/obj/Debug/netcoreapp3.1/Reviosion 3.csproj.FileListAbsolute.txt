@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\bin\Debug\netcoreapp3.1\Reviosion 3.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\bin\Debug\netcoreapp3.1\Reviosion 3.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\bin\Debug\netcoreapp3.1\Reviosion 3.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\bin\Debug\netcoreapp3.1\Reviosion 3.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\bin\Debug\netcoreapp3.1\Reviosion 3.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\bin\Debug\netcoreapp3.1\Reviosion 3.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\obj\Debug\netcoreapp3.1\Reviosion 3.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\obj\Debug\netcoreapp3.1\Reviosion 3.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\obj\Debug\netcoreapp3.1\Reviosion 3.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\obj\Debug\netcoreapp3.1\Reviosion 3.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\obj\Debug\netcoreapp3.1\Reviosion 3.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\obj\Debug\netcoreapp3.1\Reviosion 3.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Reviosion 3\obj\Debug\netcoreapp3.1\Reviosion 3.genruntimeconfig.cache
