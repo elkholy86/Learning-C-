@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\bin\Debug\netcoreapp3.1\Revision 4.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\bin\Debug\netcoreapp3.1\Revision 4.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\bin\Debug\netcoreapp3.1\Revision 4.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\bin\Debug\netcoreapp3.1\Revision 4.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\bin\Debug\netcoreapp3.1\Revision 4.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\bin\Debug\netcoreapp3.1\Revision 4.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\obj\Debug\netcoreapp3.1\Revision 4.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\obj\Debug\netcoreapp3.1\Revision 4.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\obj\Debug\netcoreapp3.1\Revision 4.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\obj\Debug\netcoreapp3.1\Revision 4.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\obj\Debug\netcoreapp3.1\Revision 4.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\obj\Debug\netcoreapp3.1\Revision 4.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\Revision 4\obj\Debug\netcoreapp3.1\Revision 4.genruntimeconfig.cache
