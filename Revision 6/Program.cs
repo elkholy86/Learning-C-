@@ -6,6 +6,13 @@ namespace Revision_6
     {
         static void Main(string[] args)
         {
+            //// 46 - explicit conversion and overflow case
+            //byte mysbyte;
+            //int myint = 350;
+            //mysbyte = (byte)myint;
+            //console.writeline($"my variable int = {myint}" + "\n");
+            //console.writeline($"my sbyte variable = {mysbyte}");
+            //console.readkey();
             //**********************************
             //45 - Implicit Conversion Operations
             //               long myvar = 1000;
