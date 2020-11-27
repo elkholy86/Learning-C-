@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\bin\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\bin\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\bin\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\bin\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\bin\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\bin\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\obj\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\obj\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\obj\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\obj\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\obj\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\obj\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\54-Array and Foreach and Challenge\obj\Debug\netcoreapp3.1\54-Array and Foreach and Challenge.genruntimeconfig.cache
