@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\bin\Debug\netcoreapp3.1\55- Array Of String and Array Length.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\bin\Debug\netcoreapp3.1\55- Array Of String and Array Length.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\bin\Debug\netcoreapp3.1\55- Array Of String and Array Length.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\bin\Debug\netcoreapp3.1\55- Array Of String and Array Length.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\bin\Debug\netcoreapp3.1\55- Array Of String and Array Length.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\bin\Debug\netcoreapp3.1\55- Array Of String and Array Length.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\obj\Debug\netcoreapp3.1\55- Array Of String and Array Length.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\obj\Debug\netcoreapp3.1\55- Array Of String and Array Length.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\obj\Debug\netcoreapp3.1\55- Array Of String and Array Length.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\obj\Debug\netcoreapp3.1\55- Array Of String and Array Length.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\obj\Debug\netcoreapp3.1\55- Array Of String and Array Length.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\obj\Debug\netcoreapp3.1\55- Array Of String and Array Length.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\55- Array Of String and Array Length\obj\Debug\netcoreapp3.1\55- Array Of String and Array Length.genruntimeconfig.cache
