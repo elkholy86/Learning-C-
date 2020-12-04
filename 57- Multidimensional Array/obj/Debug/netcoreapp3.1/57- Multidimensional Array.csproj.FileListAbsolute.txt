@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\bin\Debug\netcoreapp3.1\57- Multidimensional Array.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\bin\Debug\netcoreapp3.1\57- Multidimensional Array.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\bin\Debug\netcoreapp3.1\57- Multidimensional Array.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\bin\Debug\netcoreapp3.1\57- Multidimensional Array.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\bin\Debug\netcoreapp3.1\57- Multidimensional Array.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\bin\Debug\netcoreapp3.1\57- Multidimensional Array.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\obj\Debug\netcoreapp3.1\57- Multidimensional Array.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\obj\Debug\netcoreapp3.1\57- Multidimensional Array.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\obj\Debug\netcoreapp3.1\57- Multidimensional Array.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\obj\Debug\netcoreapp3.1\57- Multidimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\obj\Debug\netcoreapp3.1\57- Multidimensional Array.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\obj\Debug\netcoreapp3.1\57- Multidimensional Array.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\57- Multidimensional Array\obj\Debug\netcoreapp3.1\57- Multidimensional Array.genruntimeconfig.cache
