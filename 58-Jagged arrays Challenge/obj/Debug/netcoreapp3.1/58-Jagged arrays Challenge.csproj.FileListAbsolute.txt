@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\bin\Debug\netcoreapp3.1\58-Jagged arrays Challenge.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\bin\Debug\netcoreapp3.1\58-Jagged arrays Challenge.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\bin\Debug\netcoreapp3.1\58-Jagged arrays Challenge.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\bin\Debug\netcoreapp3.1\58-Jagged arrays Challenge.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\bin\Debug\netcoreapp3.1\58-Jagged arrays Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\bin\Debug\netcoreapp3.1\58-Jagged arrays Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\obj\Debug\netcoreapp3.1\58-Jagged arrays Challenge.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\obj\Debug\netcoreapp3.1\58-Jagged arrays Challenge.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\obj\Debug\netcoreapp3.1\58-Jagged arrays Challenge.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\obj\Debug\netcoreapp3.1\58-Jagged arrays Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\obj\Debug\netcoreapp3.1\58-Jagged arrays Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\obj\Debug\netcoreapp3.1\58-Jagged arrays Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\58-Jagged arrays Challenge\obj\Debug\netcoreapp3.1\58-Jagged arrays Challenge.genruntimeconfig.cache
