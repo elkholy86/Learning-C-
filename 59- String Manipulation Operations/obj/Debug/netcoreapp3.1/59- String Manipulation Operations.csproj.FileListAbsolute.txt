@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\bin\Debug\netcoreapp3.1\59- String Manipulation Operations.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\bin\Debug\netcoreapp3.1\59- String Manipulation Operations.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\bin\Debug\netcoreapp3.1\59- String Manipulation Operations.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\bin\Debug\netcoreapp3.1\59- String Manipulation Operations.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\bin\Debug\netcoreapp3.1\59- String Manipulation Operations.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\bin\Debug\netcoreapp3.1\59- String Manipulation Operations.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\obj\Debug\netcoreapp3.1\59- String Manipulation Operations.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\obj\Debug\netcoreapp3.1\59- String Manipulation Operations.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\obj\Debug\netcoreapp3.1\59- String Manipulation Operations.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\obj\Debug\netcoreapp3.1\59- String Manipulation Operations.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\obj\Debug\netcoreapp3.1\59- String Manipulation Operations.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\obj\Debug\netcoreapp3.1\59- String Manipulation Operations.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\59- String Manipulation Operations\obj\Debug\netcoreapp3.1\59- String Manipulation Operations.genruntimeconfig.cache
