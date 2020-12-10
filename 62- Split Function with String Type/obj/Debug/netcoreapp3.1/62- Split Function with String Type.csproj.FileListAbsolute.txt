@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\bin\Debug\netcoreapp3.1\62- Split Function with String Type.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\bin\Debug\netcoreapp3.1\62- Split Function with String Type.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\bin\Debug\netcoreapp3.1\62- Split Function with String Type.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\bin\Debug\netcoreapp3.1\62- Split Function with String Type.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\bin\Debug\netcoreapp3.1\62- Split Function with String Type.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\bin\Debug\netcoreapp3.1\62- Split Function with String Type.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\obj\Debug\netcoreapp3.1\62- Split Function with String Type.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\obj\Debug\netcoreapp3.1\62- Split Function with String Type.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\obj\Debug\netcoreapp3.1\62- Split Function with String Type.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\obj\Debug\netcoreapp3.1\62- Split Function with String Type.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\obj\Debug\netcoreapp3.1\62- Split Function with String Type.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\obj\Debug\netcoreapp3.1\62- Split Function with String Type.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\62- Split Function with String Type\obj\Debug\netcoreapp3.1\62- Split Function with String Type.genruntimeconfig.cache
