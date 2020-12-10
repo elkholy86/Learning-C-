@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\bin\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\bin\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\bin\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\bin\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\bin\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\bin\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\obj\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\obj\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\obj\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\obj\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\obj\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\obj\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\61-Trim Function2 and Pads Functions\obj\Debug\netcoreapp3.1\61-Trim Function2 and Pads Functions.genruntimeconfig.cache
