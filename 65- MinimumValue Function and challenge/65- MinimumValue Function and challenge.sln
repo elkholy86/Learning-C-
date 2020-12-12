@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65- MinimumValue Function and challenge", "65- MinimumValue Function and challenge.csproj", "{91F7FFDB-36C1-4003-81BD-75FFC67A4702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F7FFDB-36C1-4003-81BD-75FFC67A4702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F7FFDB-36C1-4003-81BD-75FFC67A4702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F7FFDB-36C1-4003-81BD-75FFC67A4702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F7FFDB-36C1-4003-81BD-75FFC67A4702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F0EA72-850F-4611-ACA3-ACE82AD49DC0}
+	EndGlobalSection
+EndGlobal

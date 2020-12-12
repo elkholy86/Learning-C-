@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\obj\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\obj\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\obj\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\obj\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\bin\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\bin\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\bin\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\bin\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\bin\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\bin\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\obj\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\obj\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\65- MinimumValue Function and challenge\obj\Debug\netcoreapp3.1\65- MinimumValue Function and challenge.genruntimeconfig.cache
