@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\bin\Debug\netcoreapp3.1\64- Return Value Functions.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\bin\Debug\netcoreapp3.1\64- Return Value Functions.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\bin\Debug\netcoreapp3.1\64- Return Value Functions.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\bin\Debug\netcoreapp3.1\64- Return Value Functions.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\bin\Debug\netcoreapp3.1\64- Return Value Functions.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\bin\Debug\netcoreapp3.1\64- Return Value Functions.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\obj\Debug\netcoreapp3.1\64- Return Value Functions.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\obj\Debug\netcoreapp3.1\64- Return Value Functions.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\obj\Debug\netcoreapp3.1\64- Return Value Functions.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\obj\Debug\netcoreapp3.1\64- Return Value Functions.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\obj\Debug\netcoreapp3.1\64- Return Value Functions.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\obj\Debug\netcoreapp3.1\64- Return Value Functions.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\64- Return Value Functions\obj\Debug\netcoreapp3.1\64- Return Value Functions.genruntimeconfig.cache
