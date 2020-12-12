@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\bin\Debug\netcoreapp3.1\63- First Function.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\bin\Debug\netcoreapp3.1\63- First Function.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\bin\Debug\netcoreapp3.1\63- First Function.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\bin\Debug\netcoreapp3.1\63- First Function.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\bin\Debug\netcoreapp3.1\63- First Function.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\bin\Debug\netcoreapp3.1\63- First Function.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\obj\Debug\netcoreapp3.1\63- First Function.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\obj\Debug\netcoreapp3.1\63- First Function.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\obj\Debug\netcoreapp3.1\63- First Function.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\obj\Debug\netcoreapp3.1\63- First Function.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\obj\Debug\netcoreapp3.1\63- First Function.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\obj\Debug\netcoreapp3.1\63- First Function.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\63- First Function\obj\Debug\netcoreapp3.1\63- First Function.genruntimeconfig.cache
