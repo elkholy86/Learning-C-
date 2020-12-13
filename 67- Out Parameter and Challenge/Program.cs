@@ -3,12 +3,11 @@
 namespace _67__Out_Parameter_and_Challenge
 {
     class Program
-    {
-        static int Minvalue (int[] myarray2, out int myindex)
+    {  static int Minvalue(int[] myarray2, out int myindex)
         {
             int minval = myarray2[0];
             myindex = 0;
-            for (int i = 1 ; i < myarray2.Length ; i++)
+            for (int i = 1; i < myarray2.Length; i++)
             {
                 if (myarray2[i] < minval)
                 {
