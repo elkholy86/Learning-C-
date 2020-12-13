@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\bin\Debug\netcoreapp3.1\67- Out Parameter and Challenge.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\bin\Debug\netcoreapp3.1\67- Out Parameter and Challenge.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\bin\Debug\netcoreapp3.1\67- Out Parameter and Challenge.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\bin\Debug\netcoreapp3.1\67- Out Parameter and Challenge.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\bin\Debug\netcoreapp3.1\67- Out Parameter and Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\bin\Debug\netcoreapp3.1\67- Out Parameter and Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\obj\Debug\netcoreapp3.1\67- Out Parameter and Challenge.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\obj\Debug\netcoreapp3.1\67- Out Parameter and Challenge.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\obj\Debug\netcoreapp3.1\67- Out Parameter and Challenge.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\obj\Debug\netcoreapp3.1\67- Out Parameter and Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\obj\Debug\netcoreapp3.1\67- Out Parameter and Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\obj\Debug\netcoreapp3.1\67- Out Parameter and Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\67- Out Parameter and Challenge\obj\Debug\netcoreapp3.1\67- Out Parameter and Challenge.genruntimeconfig.cache
