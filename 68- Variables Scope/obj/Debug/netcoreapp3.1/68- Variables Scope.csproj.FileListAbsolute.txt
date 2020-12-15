@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\bin\Debug\netcoreapp3.1\68- Variables Scope.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\bin\Debug\netcoreapp3.1\68- Variables Scope.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\bin\Debug\netcoreapp3.1\68- Variables Scope.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\bin\Debug\netcoreapp3.1\68- Variables Scope.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\bin\Debug\netcoreapp3.1\68- Variables Scope.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\bin\Debug\netcoreapp3.1\68- Variables Scope.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\obj\Debug\netcoreapp3.1\68- Variables Scope.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\obj\Debug\netcoreapp3.1\68- Variables Scope.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\obj\Debug\netcoreapp3.1\68- Variables Scope.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\obj\Debug\netcoreapp3.1\68- Variables Scope.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\obj\Debug\netcoreapp3.1\68- Variables Scope.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\obj\Debug\netcoreapp3.1\68- Variables Scope.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\68- Variables Scope\obj\Debug\netcoreapp3.1\68- Variables Scope.genruntimeconfig.cache
