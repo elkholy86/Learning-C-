@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "70- The Main Method": {
+      "commandName": "Project",
+      "commandLineArgs": "hello , 35 m 36"
+    }
+  }
+}

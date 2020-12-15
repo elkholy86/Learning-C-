@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\bin\Debug\netcoreapp3.1\70- The Main Method.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\bin\Debug\netcoreapp3.1\70- The Main Method.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\bin\Debug\netcoreapp3.1\70- The Main Method.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\bin\Debug\netcoreapp3.1\70- The Main Method.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\bin\Debug\netcoreapp3.1\70- The Main Method.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\bin\Debug\netcoreapp3.1\70- The Main Method.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\obj\Debug\netcoreapp3.1\70- The Main Method.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\obj\Debug\netcoreapp3.1\70- The Main Method.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\obj\Debug\netcoreapp3.1\70- The Main Method.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\obj\Debug\netcoreapp3.1\70- The Main Method.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\obj\Debug\netcoreapp3.1\70- The Main Method.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\obj\Debug\netcoreapp3.1\70- The Main Method.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\70- The Main Method\obj\Debug\netcoreapp3.1\70- The Main Method.genruntimeconfig.cache
