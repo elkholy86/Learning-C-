@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\obj\Debug\netcoreapp3.1\69- Variable Scope in Structures.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\obj\Debug\netcoreapp3.1\69- Variable Scope in Structures.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\obj\Debug\netcoreapp3.1\69- Variable Scope in Structures.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\obj\Debug\netcoreapp3.1\69- Variable Scope in Structures.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\bin\Debug\netcoreapp3.1\69- Variable Scope in Structures.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\bin\Debug\netcoreapp3.1\69- Variable Scope in Structures.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\bin\Debug\netcoreapp3.1\69- Variable Scope in Structures.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\bin\Debug\netcoreapp3.1\69- Variable Scope in Structures.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\bin\Debug\netcoreapp3.1\69- Variable Scope in Structures.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\bin\Debug\netcoreapp3.1\69- Variable Scope in Structures.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\obj\Debug\netcoreapp3.1\69- Variable Scope in Structures.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\obj\Debug\netcoreapp3.1\69- Variable Scope in Structures.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\69- Variable Scope in Structures\obj\Debug\netcoreapp3.1\69- Variable Scope in Structures.genruntimeconfig.cache
