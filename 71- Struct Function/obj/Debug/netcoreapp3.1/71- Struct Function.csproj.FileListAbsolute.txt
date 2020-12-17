@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\bin\Debug\netcoreapp3.1\71- Struct Function.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\bin\Debug\netcoreapp3.1\71- Struct Function.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\bin\Debug\netcoreapp3.1\71- Struct Function.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\bin\Debug\netcoreapp3.1\71- Struct Function.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\bin\Debug\netcoreapp3.1\71- Struct Function.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\bin\Debug\netcoreapp3.1\71- Struct Function.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\obj\Debug\netcoreapp3.1\71- Struct Function.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\obj\Debug\netcoreapp3.1\71- Struct Function.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\obj\Debug\netcoreapp3.1\71- Struct Function.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\obj\Debug\netcoreapp3.1\71- Struct Function.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\obj\Debug\netcoreapp3.1\71- Struct Function.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\obj\Debug\netcoreapp3.1\71- Struct Function.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\71- Struct Function\obj\Debug\netcoreapp3.1\71- Struct Function.genruntimeconfig.cache
