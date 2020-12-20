@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\bin\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\74- Debugging Mod Vs Release Mod\obj\Release\netcoreapp3.1\74- Debugging Mod Vs Release Mod.genruntimeconfig.cache

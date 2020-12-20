@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\74- Debugging Mod Vs Release Mod\\74- Debugging Mod Vs Release Mod.csproj": {}
+    "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\75- BreakPoints\\75- BreakPoints.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\74- Debugging Mod Vs Release Mod\\74- Debugging Mod Vs Release Mod.csproj": {
+    "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\75- BreakPoints\\75- BreakPoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\74- Debugging Mod Vs Release Mod\\74- Debugging Mod Vs Release Mod.csproj",
-        "projectName": "74- Debugging Mod Vs Release Mod",
-        "projectPath": "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\74- Debugging Mod Vs Release Mod\\74- Debugging Mod Vs Release Mod.csproj",
+        "projectUniqueName": "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\75- BreakPoints\\75- BreakPoints.csproj",
+        "projectName": "75- BreakPoints",
+        "projectPath": "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\75- BreakPoints\\75- BreakPoints.csproj",
         "packagesPath": "C:\\Users\\Elkholy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\74- Debugging Mod Vs Release Mod\\obj\\",
+        "outputPath": "C:\\Users\\Elkholy\\Documents\\GitHub\\Learning-C-\\75- BreakPoints\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elkholy\\AppData\\Roaming\\NuGet\\NuGet.Config",
