@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\bin\Debug\netcoreapp3.1\75- BreakPoints.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\bin\Debug\netcoreapp3.1\75- BreakPoints.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\bin\Debug\netcoreapp3.1\75- BreakPoints.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\bin\Debug\netcoreapp3.1\75- BreakPoints.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\bin\Debug\netcoreapp3.1\75- BreakPoints.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\bin\Debug\netcoreapp3.1\75- BreakPoints.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\obj\Debug\netcoreapp3.1\75- BreakPoints.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\obj\Debug\netcoreapp3.1\75- BreakPoints.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\obj\Debug\netcoreapp3.1\75- BreakPoints.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\obj\Debug\netcoreapp3.1\75- BreakPoints.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\obj\Debug\netcoreapp3.1\75- BreakPoints.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\obj\Debug\netcoreapp3.1\75- BreakPoints.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\75- BreakPoints\obj\Debug\netcoreapp3.1\75- BreakPoints.genruntimeconfig.cache
