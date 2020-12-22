@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\bin\Debug\netcoreapp3.1\76- Assertion Methods.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\bin\Debug\netcoreapp3.1\76- Assertion Methods.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\bin\Debug\netcoreapp3.1\76- Assertion Methods.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\bin\Debug\netcoreapp3.1\76- Assertion Methods.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\bin\Debug\netcoreapp3.1\76- Assertion Methods.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\bin\Debug\netcoreapp3.1\76- Assertion Methods.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\obj\Debug\netcoreapp3.1\76- Assertion Methods.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\obj\Debug\netcoreapp3.1\76- Assertion Methods.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\obj\Debug\netcoreapp3.1\76- Assertion Methods.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\obj\Debug\netcoreapp3.1\76- Assertion Methods.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\obj\Debug\netcoreapp3.1\76- Assertion Methods.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\obj\Debug\netcoreapp3.1\76- Assertion Methods.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\76- Assertion Methods\obj\Debug\netcoreapp3.1\76- Assertion Methods.genruntimeconfig.cache
