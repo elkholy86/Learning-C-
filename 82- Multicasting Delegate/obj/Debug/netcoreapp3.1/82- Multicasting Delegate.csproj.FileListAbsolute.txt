@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\bin\Debug\netcoreapp3.1\82- Multicasting Delegate.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\bin\Debug\netcoreapp3.1\82- Multicasting Delegate.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\bin\Debug\netcoreapp3.1\82- Multicasting Delegate.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\bin\Debug\netcoreapp3.1\82- Multicasting Delegate.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\bin\Debug\netcoreapp3.1\82- Multicasting Delegate.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\bin\Debug\netcoreapp3.1\82- Multicasting Delegate.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\obj\Debug\netcoreapp3.1\82- Multicasting Delegate.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\obj\Debug\netcoreapp3.1\82- Multicasting Delegate.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\obj\Debug\netcoreapp3.1\82- Multicasting Delegate.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\obj\Debug\netcoreapp3.1\82- Multicasting Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\obj\Debug\netcoreapp3.1\82- Multicasting Delegate.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\obj\Debug\netcoreapp3.1\82- Multicasting Delegate.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\82- Multicasting Delegate\obj\Debug\netcoreapp3.1\82- Multicasting Delegate.genruntimeconfig.cache
