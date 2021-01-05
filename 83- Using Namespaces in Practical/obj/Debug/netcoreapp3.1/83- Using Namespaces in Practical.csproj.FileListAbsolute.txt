@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83- Using Namespaces in Practical.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83- Using Namespaces in Practical.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83- Using Namespaces in Practical.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83- Using Namespaces in Practical.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83- Using Namespaces in Practical.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\bin\Debug\netcoreapp3.1\83- Using Namespaces in Practical.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83- Using Namespaces in Practical.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83- Using Namespaces in Practical.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83- Using Namespaces in Practical.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83- Using Namespaces in Practical.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83- Using Namespaces in Practical.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83- Using Namespaces in Practical.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\83- Using Namespaces in Practical\obj\Debug\netcoreapp3.1\83- Using Namespaces in Practical.genruntimeconfig.cache
