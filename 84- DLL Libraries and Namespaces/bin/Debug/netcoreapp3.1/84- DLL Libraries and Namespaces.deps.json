@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "84- DLL Libraries and Namespaces/1.0.0": {
+        "dependencies": {
+          "jax": "1.0.0",
+          "maxpayne": "1.0.0"
+        },
+        "runtime": {
+          "84- DLL Libraries and Namespaces.dll": {}
+        }
+      },
+      "jax/1.0.0": {
+        "runtime": {
+          "jax.dll": {}
+        }
+      },
+      "maxpayne/1.0.0": {
+        "runtime": {
+          "maxpayne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "84- DLL Libraries and Namespaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "jax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "maxpayne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\bin\Debug\netstandard2.0\mybrotherss.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\bin\Debug\netstandard2.0\mybrotherss.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\bin\Debug\netstandard2.0\mybrotherss.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\mybrotherss.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\mybrotherss.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\mybrotherss.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\mybrotherss.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\mybrotherss.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\mybrotherss.pdb

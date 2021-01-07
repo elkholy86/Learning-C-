@@ -1,0 +1,8 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\bin\Debug\netstandard2.0\maxpayne.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\bin\Debug\netstandard2.0\maxpayne.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\bin\Debug\netstandard2.0\maxpayne.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\maxpayne.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\maxpayne.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\maxpayne.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\maxpayne.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\maxpayne.pdb

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_85__Lambda_Expression_and_Challenge_30</RootNamespace>
+  </PropertyGroup>
+
+</Project>

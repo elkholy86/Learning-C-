@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\bin\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\bin\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\bin\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\bin\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\bin\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\bin\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\obj\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\obj\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\obj\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\obj\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\obj\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\obj\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\85- Lambda Expression and Challenge 30\obj\Debug\netcoreapp3.1\85- Lambda Expression and Challenge 30.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\bin\Debug\netstandard2.0\jax.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\bin\Debug\netstandard2.0\jax.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\bin\Debug\netstandard2.0\jax.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\jax.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\jax.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\jax.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\jax.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrotherss\obj\Debug\netstandard2.0\jax.pdb

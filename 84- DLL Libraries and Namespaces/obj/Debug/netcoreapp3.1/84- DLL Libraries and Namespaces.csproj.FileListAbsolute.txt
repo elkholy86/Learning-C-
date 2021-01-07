@@ -1,0 +1,18 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.genruntimeconfig.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\obj\Debug\netcoreapp3.1\84- DLL Libraries and Namespaces.csproj.CopyComplete
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\jax.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\maxpayne.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\jax.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\84- DLL Libraries and Namespaces\bin\Debug\netcoreapp3.1\maxpayne.pdb

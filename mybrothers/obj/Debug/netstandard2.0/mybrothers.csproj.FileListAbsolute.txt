@@ -1,0 +1,9 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\bin\Debug\netstandard2.0\mybrothers.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\bin\Debug\netstandard2.0\mybrothers.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\bin\Debug\netstandard2.0\mybrothers.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\mybrothers.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\mybrothers.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\mybrothers.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\mybrothers.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\mybrothers.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\mybrothers\obj\Debug\netstandard2.0\mybrothers.pdb
