@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\bin\Debug\netcoreapp3.1\87- DateTime Type.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\bin\Debug\netcoreapp3.1\87- DateTime Type.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\bin\Debug\netcoreapp3.1\87- DateTime Type.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\bin\Debug\netcoreapp3.1\87- DateTime Type.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\bin\Debug\netcoreapp3.1\87- DateTime Type.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\bin\Debug\netcoreapp3.1\87- DateTime Type.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\obj\Debug\netcoreapp3.1\87- DateTime Type.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\obj\Debug\netcoreapp3.1\87- DateTime Type.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\obj\Debug\netcoreapp3.1\87- DateTime Type.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\obj\Debug\netcoreapp3.1\87- DateTime Type.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\obj\Debug\netcoreapp3.1\87- DateTime Type.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\obj\Debug\netcoreapp3.1\87- DateTime Type.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\87- DateTime Type\obj\Debug\netcoreapp3.1\87- DateTime Type.genruntimeconfig.cache
