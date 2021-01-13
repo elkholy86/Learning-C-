@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\bin\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\89- MoreArrayOperations using Array Class\obj\Debug\netcoreapp3.1\89- MoreArrayOperations using Array Class.genruntimeconfig.cache
