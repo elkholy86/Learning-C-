@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\bin\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\bin\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\bin\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\bin\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\bin\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\bin\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\obj\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\obj\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\obj\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\obj\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\obj\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\obj\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\92- Recursive Function and Challenge 32\obj\Debug\netcoreapp3.1\92- Recursive Function and Challenge 32.genruntimeconfig.cache
