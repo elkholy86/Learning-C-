@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "32 Revision on 32- Boolean Operatorors/1.0.0": {
+        "runtime": {
+          "32 Revision on 32- Boolean Operatorors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "32 Revision on 32- Boolean Operatorors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
