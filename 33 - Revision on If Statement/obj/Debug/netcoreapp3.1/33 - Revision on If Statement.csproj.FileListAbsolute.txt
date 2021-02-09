@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\bin\Debug\netcoreapp3.1\33 - Revision on If Statement.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\bin\Debug\netcoreapp3.1\33 - Revision on If Statement.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\bin\Debug\netcoreapp3.1\33 - Revision on If Statement.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\bin\Debug\netcoreapp3.1\33 - Revision on If Statement.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\bin\Debug\netcoreapp3.1\33 - Revision on If Statement.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\bin\Debug\netcoreapp3.1\33 - Revision on If Statement.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\obj\Debug\netcoreapp3.1\33 - Revision on If Statement.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\obj\Debug\netcoreapp3.1\33 - Revision on If Statement.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\obj\Debug\netcoreapp3.1\33 - Revision on If Statement.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\obj\Debug\netcoreapp3.1\33 - Revision on If Statement.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\obj\Debug\netcoreapp3.1\33 - Revision on If Statement.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\obj\Debug\netcoreapp3.1\33 - Revision on If Statement.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\33 - Revision on If Statement\obj\Debug\netcoreapp3.1\33 - Revision on If Statement.genruntimeconfig.cache
