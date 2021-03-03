@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\bin\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\bin\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\bin\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\bin\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\bin\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\bin\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\obj\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\obj\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\obj\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\obj\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\obj\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\obj\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\42- Revision Nested Loop and Challenge\obj\Debug\netcoreapp3.1\42- Revision Nested Loop and Challenge.genruntimeconfig.cache
