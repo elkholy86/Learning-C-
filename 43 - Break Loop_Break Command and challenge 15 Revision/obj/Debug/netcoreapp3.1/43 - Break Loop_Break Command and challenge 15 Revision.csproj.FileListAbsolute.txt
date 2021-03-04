@@ -1,0 +1,13 @@
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\bin\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.exe
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\bin\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.deps.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\bin\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.runtimeconfig.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\bin\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.runtimeconfig.dev.json
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\bin\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\bin\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\obj\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.csprojAssemblyReference.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\obj\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.AssemblyInfoInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\obj\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.AssemblyInfo.cs
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\obj\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.csproj.CoreCompileInputs.cache
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\obj\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.dll
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\obj\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.pdb
+C:\Users\Elkholy\Documents\GitHub\Learning-C-\43 - Break Loop_Break Command and challenge 15 Revision\obj\Debug\netcoreapp3.1\43 - Break Loop_Break Command and challenge 15 Revision.genruntimeconfig.cache
