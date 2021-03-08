@@ -15,9 +15,7 @@ namespace _43___Break_Loop_Break_Command_and_challenge_15_Revision
                     int y = i * j;
                     Console.WriteLine($"{i} * {j} = {y}");
                 }
-        
             }
-
 
             //for (int i = 0; i <= 5; i++)
             //{
