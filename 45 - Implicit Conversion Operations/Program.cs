@@ -8,11 +8,20 @@ namespace _45___Implicit_Conversion_Operations
         {
             long myvar = 1000;
             float myvar2 = myvar;
-            Console.WriteLine($"{myvar2}");
-            char myvar3 = 'G'; 
-            int myintvar = myvar3;
-            Console.WriteLine($"{myintvar}");
+            Console.WriteLine($"{ myvar}");
+            char myvar3 = 'G';
+            int myIntvar = myvar3;
+            Console.WriteLine($"{myIntvar}");
+           
+
             Console.ReadKey();
+            //long myvar = 1000;
+            //float myvar2 = myvar;
+            //Console.WriteLine($"{myvar2}");
+            //char myvar3 = 'G'; 
+            //int myintvar = myvar3;
+            //Console.WriteLine($"{myintvar}");
+            //Console.ReadKey();
 
         }
     }
